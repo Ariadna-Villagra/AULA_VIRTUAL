@@ -6,7 +6,7 @@
    ========================================================== */
 
 // Versión de la caché. Cada vez que cambies un archivo de la app, subila (v2, v3...)
-const VERSION = "v1";
+const VERSION = "v2";
 
 // Nombre completo de la caché: "aula-" + la versión (queda "aula-v1")
 const NOMBRE_CACHE = "aula-" + VERSION;
