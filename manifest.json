@@ -1,0 +1,25 @@
+{
+  "name": "Aula 6.o",
+  "short_name": "Aula 6.o",
+  "description": "Aula virtual simple: cursos, materiales, tareas y entregas.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FAF7FC",
+  "theme_color": "#D6457C",
+  "icons": [
+    {
+      "src": "icono-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icono-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
